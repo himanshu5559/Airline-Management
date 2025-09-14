@@ -22,4 +22,3 @@ development // for run server locally
 - Postgre
 - [Node](https://nodejs.org/en/download/) ^20
 - [npm](https://nodejs.org/en/download/package-manager/)
-
